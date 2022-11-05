@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "144201602018",
+    "project_id": "vcard-161cc",
+    "storage_bucket": "vcard-161cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:144201602018:android:db15ab3965a4bce5611fbb",
+        "android_client_info": {
+          "package_name": "com.fliqcard.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "144201602018-5049eaatg6ng2kpkd1dbhi1kuh2g5pjo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCp9WDLA_F-S0JcVmhy-SHW6maDUYPS8Cc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "144201602018-5049eaatg6ng2kpkd1dbhi1kuh2g5pjo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
